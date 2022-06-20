@@ -7,6 +7,9 @@
 
 - **React**
 
+## Live Demo
+
+[Demo Link](https://kaitchamtours.herokuapp.com/)
 
 ## Getting Started
 
